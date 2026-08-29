@@ -1,1 +1,1 @@
-# sertac.barcodescanner.github.io
+# sertac.github.io
